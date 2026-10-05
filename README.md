@@ -5,9 +5,8 @@
   </picture>
 </a>
 
-I build and ship production web apps, from architecture to deploy. Frontend
-developer with 4+ years of production experience, now open to remote frontend
-and full-stack roles.
+Frontend developer with 4+ years of production experience, now open to
+remote frontend and full-stack roles.
 
 [Portfolio](https://zulmamartinez.dev) ·
 [Resume](https://zulmamartinez.dev/resume.pdf) ·
