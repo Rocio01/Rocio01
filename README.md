@@ -38,5 +38,5 @@ I moved into development through Microverse's remote full-stack program, pair
 programming with developers around the world, and went straight into building
 a production platform.
 
-I'm used to working on my own and owning decisions end to end. Spanish native,
+I'm used to working independently and owning decisions end to end. Spanish native,
 advanced English.
