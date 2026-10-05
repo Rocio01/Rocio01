@@ -1,6 +1,9 @@
-# Hi, I'm Zulma Rocio Martinez
-
-**Frontend Developer · React · TypeScript · Next.js**
+<a href="https://zulmamartinez.dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png" />
+    <img src="banner-light.png" alt="Zulma Rocio Martinez. Frontend Developer: React, TypeScript, Next.js. I build and ship production web apps, from architecture to deploy." width="100%" />
+  </picture>
+</a>
 
 I build and ship production web apps, from architecture to deploy. Frontend
 developer with 4+ years of production experience, now open to remote frontend
